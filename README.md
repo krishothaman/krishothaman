@@ -5,11 +5,6 @@
 
 I'm a Computer Science student interested in AI, Machine Learning, and Cybersecurity.
 
-**About me**
-
-* 💼 Built a **media watermarking tool** to detect production leak sources using machine-readable tracking
-* 📈 Currently training my **first CNN** and building an interactive **Discord life simulator bot**
-* ❤️ I love writing **Python** and **C++**, and exploring practical machine learning applications
 
 <br />
 
