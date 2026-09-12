@@ -17,7 +17,4 @@ I'm a Computer Science student interested in AI, Machine Learning, and Cybersecu
 
 <br />
 
-**Top Repositories**
 
-* **[CNN-Image-Classifier](https://github.com/krishothaman/mnist-cnn-classifier)** – Convolutional Neural Network built to learn deep learning fundamentals.
-* **[Discord-Life-Simulator](https://github.com/krishothaman/swagbot)** – Interactive Discord bot simulating core mechanics and state tracking.
