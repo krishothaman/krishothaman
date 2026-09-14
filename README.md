@@ -3,8 +3,24 @@
 
 <br />
 
-I'm a Computer Science student interested in AI, Machine Learning, and Cybersecurity.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://i.pinimg.com/originals/d3/1f/a8/d31fa8d3c1f8c2e8e8c8c8c8c8c8c8c8.gif" alt="Fire Gif" width="300" />
+      </td>
+      <td width="50%" align="center" style="font-size: 18px; font-style: italic; padding: 20px;">
+        <blockquote>
+          "Hesitation is defeat"
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br />
+
+I'm a Computer Science student interested in AI, Machine Learning, and Cybersecurity.
 
 <br />
 
@@ -14,7 +30,4 @@ I'm a Computer Science student interested in AI, Machine Learning, and Cybersecu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-
 <br />
-
-
