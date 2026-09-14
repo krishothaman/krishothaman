@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://i.pinimg.com/originals/d3/1f/a8/d31fa8d3c1f8c2e8e8c8c8c8c8c8c8c8.gif" alt="Fire Gif" width="300" />
+        <img src="https://media.giphy.com/media/l0HlDy9x8FZo0XO1i/giphy.gif" alt="Fire Gif" width="300" />
       </td>
       <td width="50%" align="center" style="font-size: 18px; font-style: italic; padding: 20px;">
         <blockquote>
