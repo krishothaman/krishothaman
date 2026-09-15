@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm R.Krishothaman </h1>
+<h1 align="center">Hi, I'm R.Krishothaman 👋</h1>
 
 <p align="center">
   <a href="https://github.com/krishothaman">
@@ -36,8 +36,8 @@
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishothaman&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishothaman&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-teal-xi-86.vercel.app/api?username=krishothaman&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-teal-xi-86.vercel.app/api/top-langs/?username=krishothaman&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
