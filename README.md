@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishothaman&color=blueviolet&style=flat" alt="profile views" />
-  <a href="https://guns.lol/czar">
-    <img src="https://img.shields.io/badge/bio-guns.lol%2Fczar-blueviolet?style=flat" />
+  <a href="https://krishothaman.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio%2Fczar-blueviolet?style=flat" />
   </a>
 </p>
