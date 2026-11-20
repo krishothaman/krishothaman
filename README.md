@@ -51,7 +51,7 @@
 </p>
 <p align="center">
   <sub><b>TOOLS</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,discord,unreal&theme=dark" alt="git, github, vscode, docker, linux, discord, unreal" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,discord&theme=dark" alt="git, github, vscode, docker, linux, discord" />
 </p>
 
 <img src="assets/h-projects.svg" width="100%" alt="Featured Projects" />
