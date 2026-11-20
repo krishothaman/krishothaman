@@ -32,7 +32,6 @@
         👁️ <b>Computer Vision</b>: sports highlight analysis<br/>
         🗝️ <b>Side quests</b>: Discord bots, Unreal Engine, Rust
       </p>
-      <blockquote><i>"Hesitation is defeat."</i></blockquote>
     </td>
     <td width="38%" align="center" valign="middle">
       <img src="assets/about.svg" width="100%" alt="R. Krishothaman, AI Engineer and ML Trainer" />
