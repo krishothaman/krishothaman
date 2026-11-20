@@ -3,29 +3,29 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/krishothaman"><img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=F2F2F2&center=true&vCenter=true&width=620&lines=Fear+the+Old+Blood;AI+Engineer+%26+ML+Trainer;Training+models+in+the+Hunter%27s+Dream;Building+RAG+%26+vision+systems" alt="Fear the Old Blood. AI Engineer and ML Trainer." /></a>
+  <a href="https://github.com/krishothaman"><img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=F2F2F2&center=true&vCenter=true&width=620&lines=Fear+the+Old+Blood;AI+Engineer+%26+ML+Trainer;Training+%26+fine-tuning+models;Building+RAG+%26+vision+systems" alt="Fear the Old Blood. AI Engineer and ML Trainer." /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hunter-AI%20Engineer-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Hunter: AI Engineer" />
-  <img src="https://img.shields.io/badge/Workshop-ML%20Training-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Workshop: ML Training" />
-  <img src="https://img.shields.io/badge/Oath-LLMs%20%C2%B7%20RAG%20%C2%B7%20Vision-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Oath: LLMs · RAG · Vision" />
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Role: AI Engineer" />
+  <img src="https://img.shields.io/badge/Focus-ML%20Training-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Focus: ML Training" />
+  <img src="https://img.shields.io/badge/Stack-LLMs%20%C2%B7%20RAG%20%C2%B7%20Vision-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Stack: LLMs · RAG · Vision" />
 </p>
 
 <p align="center">
   <a href="https://krishothaman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-krishothaman.vercel.app-F2F2F2?style=flat-square&labelColor=0E0E0E&logo=vercel&logoColor=white" alt="Portfolio: krishothaman.vercel.app" /></a>
-  <a href="https://github.com/krishothaman?tab=repositories"><img src="https://img.shields.io/badge/Hunts-Repositories-F2F2F2?style=flat-square&labelColor=0E0E0E&logo=github&logoColor=white" alt="Hunts: Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=krishothaman&color=lightgrey&style=flat-square&label=HUNTERS+VISITED" alt="profile views" />
+  <a href="https://github.com/krishothaman?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-F2F2F2?style=flat-square&labelColor=0E0E0E&logo=github&logoColor=white" alt="GitHub: Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=krishothaman&color=lightgrey&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 <br/>
 
-<img src="assets/h-hunter.svg" width="100%" alt="The Hunter" />
+<img src="assets/h-about.svg" width="100%" alt="About Me" />
 
 <table>
   <tr>
     <td width="62%" valign="top">
-      <p>I'm <b>R. Krishothaman</b>, an <b>AI engineer and ML trainer</b>. I spend my nights in the Hunter's Dream: training models, building retrieval pipelines, and teaching machines to see.</p>
+      <p>I'm <b>R. Krishothaman</b>, an <b>AI engineer and ML trainer</b>. I train models, build retrieval pipelines, and teach machines to see.</p>
       <p>
         🩸 <b>AI Engineering</b>: LLM apps and RAG pipelines<br/>
         🕯️ <b>ML Training</b>: fine-tuning, evaluation, datasets<br/>
@@ -35,12 +35,12 @@
       <blockquote><i>"Hesitation is defeat."</i></blockquote>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="assets/about.svg" width="100%" alt="The Hunter: AI Engineer and ML Trainer" />
+      <img src="assets/about.svg" width="100%" alt="R. Krishothaman, AI Engineer and ML Trainer" />
     </td>
   </tr>
 </table>
 
-<img src="assets/h-arsenal.svg" width="100%" alt="Hunter's Arsenal" />
+<img src="assets/h-stack.svg" width="100%" alt="Tech Stack" />
 
 <p align="center">
   <sub><b>LANGUAGES</b></sub><br/>
@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,discord,unreal&theme=dark" alt="git, github, vscode, docker, linux, discord, unreal" />
 </p>
 
-<img src="assets/h-trophies.svg" width="100%" alt="Trophies of the Hunt" />
+<img src="assets/h-projects.svg" width="100%" alt="Featured Projects" />
 
 <p align="center">
   <a href="https://github.com/krishothaman/game-rag"><img src="assets/card-game-rag.svg" width="49%" alt="Game RAG" /></a>
@@ -75,7 +75,7 @@
   <img src="https://streak-stats.demolab.com/?user=krishothaman&background=0E0E0E&border=F2F2F2&stroke=9C9C9C&ring=F2F2F2&fire=F2F2F2&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=F2F2F2&sideLabels=CFCFCF&dates=9C9C9C" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishothaman&bg_color=0E0E0E&color=CFCFCF&line=F2F2F2&point=FFFFFF&area=true&area_color=9C9C9C&title_color=F2F2F2&hide_border=false&border_color=F2F2F2&custom_title=The+Hunt%27s+Record" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishothaman&bg_color=0E0E0E&color=CFCFCF&line=F2F2F2&point=FFFFFF&area=true&area_color=9C9C9C&title_color=F2F2F2&hide_border=false&border_color=F2F2F2" width="100%" alt="Contribution activity graph" />
 </p>
 
 <img src="assets/footer.svg" width="100%" alt="May you find your worth in the waking world." />
