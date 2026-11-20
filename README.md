@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/krishothaman"><img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=F2F2F2&center=true&vCenter=true&width=620&lines=Fear+the+Old+Blood;AI+Engineer+%26+ML+Trainer;Training+%26+fine-tuning+models;Building+RAG+%26+vision+systems" alt="Fear the Old Blood. AI Engineer and ML Trainer." /></a>
+  <a href="https://github.com/krishothaman"><img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=F2F2F2&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+ML+Trainer;Training+%26+fine-tuning+models;Building+RAG+%26+vision+systems" alt="AI Engineer and ML Trainer" /></a>
 </p>
 
 <p align="center">
