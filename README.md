@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Krishothaman, AI Engineer and ML Trainer" />
+  <img src="assets/banner.svg" width="100%" alt="Krishothaman, AI/ML Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/krishothaman"><img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=F2F2F2&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+ML+Trainer;Training+%26+fine-tuning+models;Building+RAG+%26+vision+systems" alt="AI Engineer and ML Trainer" /></a>
+  <a href="https://github.com/krishothaman"><img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=F2F2F2&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer;Training+%26+fine-tuning+models;Building+RAG+%26+vision+systems" alt="AI/ML Engineer" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20Engineer-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Role: AI Engineer" />
-  <img src="https://img.shields.io/badge/Focus-ML%20Training-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Focus: ML Training" />
+  <img src="https://img.shields.io/badge/Role-AI%2FML%20Engineer-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Role: AI/ML Engineer" />
+  <img src="https://img.shields.io/badge/Focus-Model%20Training-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Focus: Model Training" />
   <img src="https://img.shields.io/badge/Stack-LLMs%20%C2%B7%20RAG%20%C2%B7%20Vision-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Stack: LLMs · RAG · Vision" />
 </p>
 
@@ -25,16 +25,16 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <p>I'm <b>R. Krishothaman</b>, an <b>AI engineer and ML trainer</b>. I train models, build retrieval pipelines, and teach machines to see.</p>
+      <p>I'm <b>R. Krishothaman</b>, an <b>AI/ML engineer</b>. I train models, build retrieval pipelines, and teach machines to see.</p>
       <p>
         🩸 <b>AI Engineering</b>: LLM apps and RAG pipelines<br/>
-        🕯️ <b>ML Training</b>: fine-tuning, evaluation, datasets<br/>
+        🕯️ <b>Model Training</b>: fine-tuning, evaluation, datasets<br/>
         👁️ <b>Computer Vision</b>: sports highlight analysis<br/>
         🗝️ <b>Side quests</b>: Discord bots, Unreal Engine, Rust
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="assets/about.svg" width="100%" alt="R. Krishothaman, AI Engineer and ML Trainer" />
+      <img src="assets/about.svg" width="100%" alt="R. Krishothaman, AI/ML Engineer" />
     </td>
   </tr>
 </table>
