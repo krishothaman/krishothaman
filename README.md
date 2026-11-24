@@ -54,16 +54,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,discord&theme=dark" alt="git, github, vscode, docker, linux, discord" />
 </p>
 
-<img src="assets/h-projects.svg" width="100%" alt="Featured Projects" />
-
-<p align="center">
-  <a href="https://github.com/krishothaman/game-rag"><img src="assets/card-game-rag.svg" width="49%" alt="Game RAG" /></a>
-  <a href="https://github.com/krishothaman/sports-analyzer"><img src="assets/card-sports-analyzer.svg" width="49%" alt="Sports Analyzer" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/krishothaman/swagbot"><img src="assets/card-swagbot.svg" width="49%" alt="Swagbot" /></a>
-</p>
-
 <img src="assets/h-insight.svg" width="100%" alt="Insight Gained" />
 
 <p align="center">
