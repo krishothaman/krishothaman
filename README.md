@@ -3,68 +3,67 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/krishothaman"><img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=F2F2F2&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer;Training+%26+fine-tuning+models;Building+RAG+%26+vision+systems" alt="AI/ML Engineer" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=20&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=620&height=40&lines=AI%2FML+Engineer;Building+local+RAG+systems+and+video+models" alt="AI/ML Engineer. Building local RAG systems and video models." />
+</p>
+
+---
+
+<h2 align="center">About Me</h2>
+
+<img align="right" width="180" src="assets/about.svg" alt="R. Krishothaman, AI/ML Engineer" />
+
+Hey, I'm **R. Krishothaman**, an AI/ML engineer.
+
+I like building things with machine learning, from retrieval and LLM apps to models that understand video, and I care about testing whether they actually work.
+
+Outside of that I build Discord bots and pick up whatever looks interesting next.
+
+<br clear="right"/>
+
+---
+
+<h2 align="center">Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/krishothaman/game-rag"><img src="assets/card-game-rag.svg" width="100%" alt="Game RAG: Fully local RAG over the Sekiro wiki: hybrid BM25 + embedding search, cross-encoder reranking and cited answers." /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%2FML%20Engineer-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Role: AI/ML Engineer" />
-  <img src="https://img.shields.io/badge/Focus-Model%20Training-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Focus: Model Training" />
-  <img src="https://img.shields.io/badge/Stack-LLMs%20%C2%B7%20RAG%20%C2%B7%20Vision-F2F2F2?style=flat-square&labelColor=0E0E0E" alt="Stack: LLMs · RAG · Vision" />
+  <a href="https://github.com/krishothaman/sports-analyzer"><img src="assets/card-sports-analyzer.svg" width="100%" alt="Sports Analyzer: Spots made field goals and free throws in basketball broadcasts using OWLv2 hoop detection and an MViTv2 video backbone." /></a>
 </p>
 
 <p align="center">
-  <a href="https://krishothaman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-krishothaman.vercel.app-F2F2F2?style=flat-square&labelColor=0E0E0E&logo=vercel&logoColor=white" alt="Portfolio: krishothaman.vercel.app" /></a>
-  <a href="https://github.com/krishothaman?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-F2F2F2?style=flat-square&labelColor=0E0E0E&logo=github&logoColor=white" alt="GitHub: Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=krishothaman&color=lightgrey&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+  <a href="https://github.com/krishothaman/swagbot"><img src="assets/card-swagbot.svg" width="100%" alt="Swagbot: Discord economy and life-sim bot with jobs, housing tiers, casino games, multiplayer heists and quests." /></a>
 </p>
 
-<br/>
+---
 
-<img src="assets/h-about.svg" width="100%" alt="About Me" />
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <p>I'm <b>R. Krishothaman</b>, an <b>AI/ML engineer</b>. I train models, build retrieval pipelines, and teach machines to see.</p>
-      <p>
-        🩸 <b>AI Engineering</b>: LLM apps and RAG pipelines<br/>
-        🕯️ <b>Model Training</b>: fine-tuning, evaluation, datasets<br/>
-        👁️ <b>Computer Vision</b>: sports highlight analysis<br/>
-        🗝️ <b>Side quests</b>: Discord bots, Unreal Engine, Rust
-      </p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/about.svg" width="100%" alt="R. Krishothaman, AI/ML Engineer" />
-    </td>
-  </tr>
-</table>
-
-<img src="assets/h-stack.svg" width="100%" alt="Tech Stack" />
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <sub><b>LANGUAGES</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,rust,js,ts&theme=dark" alt="py, c, cpp, java, rust, js, ts" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,java,git,github,linux,vscode&theme=dark" alt="Python, PyTorch, C++, Java, Git, GitHub, Linux, VS Code" />
 </p>
 <p align="center">
-  <sub><b>AI / ML</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi&theme=dark" alt="pytorch, tensorflow, sklearn, opencv, fastapi" />
-</p>
-<p align="center">
-  <sub><b>TOOLS</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,discord&theme=dark" alt="git, github, vscode, docker, linux, discord" />
+  <sub>Also: Hugging Face Transformers · Ollama · ChromaDB · OpenCV · discord.py · SQLite</sub>
 </p>
 
-<img src="assets/h-insight.svg" width="100%" alt="Insight Gained" />
+---
+
+<h2 align="center">Connect</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-teal-xi-86.vercel.app/api?username=krishothaman&show_icons=true&count_private=true&hide_rank=true&hide_border=false&bg_color=0E0E0E&title_color=F2F2F2&text_color=CFCFCF&icon_color=F2F2F2&border_color=F2F2F2" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-teal-xi-86.vercel.app/api/top-langs/?username=krishothaman&layout=compact&hide_border=false&bg_color=0E0E0E&title_color=F2F2F2&text_color=CFCFCF&icon_color=F2F2F2&border_color=F2F2F2" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=krishothaman&background=0E0E0E&border=F2F2F2&stroke=9C9C9C&ring=F2F2F2&fire=F2F2F2&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=F2F2F2&sideLabels=CFCFCF&dates=9C9C9C" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishothaman&bg_color=0E0E0E&color=CFCFCF&line=F2F2F2&point=FFFFFF&area=true&area_color=9C9C9C&title_color=F2F2F2&hide_border=false&border_color=F2F2F2" width="100%" alt="Contribution activity graph" />
+  <a href="https://krishothaman.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="45" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/krishothaman"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub" /></a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="May you find your worth in the waking world." />
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=krishothaman&background=0E0E0E&border=30363D&stroke=9C9C9C&ring=F2F2F2&fire=F2F2F2&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=F2F2F2&sideLabels=CFCFCF&dates=9C9C9C&border_radius=6" height="150" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="May you find your worth in the waking world." />
+</p>
