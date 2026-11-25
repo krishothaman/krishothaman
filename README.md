@@ -41,10 +41,10 @@ Outside of that I build Discord bots and pick up whatever looks interesting next
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,java,git,github,linux,vscode&theme=dark" alt="Python, PyTorch, C++, Java, Git, GitHub, Linux, VS Code" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,rust,cpp,java,docker,git,github,linux,vscode&theme=dark" alt="Python, PyTorch, OpenCV, Rust, C++, Java, Docker, Git, GitHub, Linux, VS Code" />
 </p>
 <p align="center">
-  <sub>Also: Hugging Face Transformers · Ollama · ChromaDB · OpenCV · discord.py · SQLite</sub>
+  <sub>Also: Hugging Face Transformers · Ollama · ChromaDB · discord.py · SQLite</sub>
 </p>
 
 ---
